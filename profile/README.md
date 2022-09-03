@@ -1,4 +1,4 @@
-rr<h1 align="center">Hi 👋, We are Ares Client</h1>
+<h1 align="center">Hi 👋, We are Ares Client</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aresclientteam&label=Profile%20views&color=0e75b6&style=flat" alt="aresclientteam" /> </p>
 
 <h3 align="center">Connect with us:</h3>
